@@ -1,0 +1,14 @@
+title: CASIO SXC-1 を遊び倒すための情報
+description: CASIO SXC-1 ポータブル・スタンドアローン・サンプラーの非公式まとめノート
+theme: jekyll-theme-cayman
+lang: ja
+
+# README.md を index としてレンダリングする
+# GitHub Pages (Jekyll) は README.md を自動でトップページに変換します
+
+# ビルド対象から除外（PDF等は元々コミットされませんが念のため）
+exclude:
+  - docs/
+  - "*.pdf"
+  - CLAUDE.md
+  - README_OLD.md
