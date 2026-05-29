@@ -1,0 +1,19 @@
+# CASIO公式マニュアルPDF等は著作物のためリポジトリに含めない
+docs/
+*.pdf
+
+# Claude Code ローカル設定（個人環境用）
+.claude/settings.local.json
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Jekyll (GitHub Pages) ローカルビルド成果物
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
