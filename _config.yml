@@ -5,7 +5,7 @@ lang: ja
 
 # Amazon アソシエイト トラッキングID（例: "xxxxxxxx-22"）
 # shop.md の全リンクがこの値を参照します。取得したIDをここに設定してください。
-amazon_associate_tag: ""
+amazon_associate_tag: "hebodan-22"
 
 # README.md を index としてレンダリングする
 # GitHub Pages (Jekyll) は README.md を自動でトップページに変換します
