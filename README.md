@@ -347,6 +347,17 @@ EDIT長押し → システム設定 → 十字ボタンで `Initialize` を選�
 
 ---
 
+## 支援のお願い
+
+このノートが役に立ったら、Ko-fi で制作者を応援していただけるとうれしいです。
+
+<kofi-banner user="otasuke">
+  <a href="https://ko-fi.com/otasuke">Ko-fi で制作者を支援する</a>
+</kofi-banner>
+<script src="https://cdn.jsdelivr.net/gh/neuvecom/kofi-banner@v1.0.0/kofi-banner.js" defer></script>
+
+---
+
 ## 免責・著作権について
 
 - 本リポジトリは個人がまとめた**非公式**の情報であり、CASIO 計算機株式会社とは一切関係ありません。
