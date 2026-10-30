@@ -1,0 +1,20 @@
+<!-- neuve 学習コース（ポータル）へ戻るボタン。
+     ポータルをホーム画面に追加したアプリ（PWA）では戻るボタンが無いので、どのページにも常に表示する -->
+<style>
+  .learn-home {
+    position: fixed; left: 12px; bottom: 12px; z-index: 1000;
+    padding: 0.5rem 1rem; border-radius: 999rem;
+    background: #e8710a; color: #fff; font-weight: 600; font-size: 0.9rem;
+    text-decoration: none; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+  .learn-home:hover { color: #fff; text-decoration: none; opacity: 0.9; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var a = document.createElement('a');
+    a.className = 'learn-home';
+    a.href = 'https://neuve.com/learn/';
+    a.textContent = '← 学習コース一覧';
+    document.body.appendChild(a);
+  });
+</script>
